@@ -86,4 +86,4 @@ accepting issues, regenerate that list with `node scripts/validate-data.js --upd
 
 ## GitHub Pages Deployment
 
-This project is automatically deployed to GitHub Pages using GitHub Actions. The deployment workflow is triggered on every push to the `main` branch, runs the same checks as CI, builds the site with `npm run build`, and deploys `dist/` with GitHub's Pages actions (the repository's Pages source must be set to "GitHub Actions"). You can view the live site at your repository's GitHub Pages URL once deployment is complete.
+This project is automatically deployed to GitHub Pages using GitHub Actions. The deployment workflow is triggered on every push to the `main` branch, runs the same checks as CI, builds the site with `npm run build`, and deploys `dist/` with GitHub's Pages actions (the repository's Pages source must be set to "GitHub Actions"). The live site is at <https://grazyna-foci.github.io/cortes-lakes-monitoring/>.

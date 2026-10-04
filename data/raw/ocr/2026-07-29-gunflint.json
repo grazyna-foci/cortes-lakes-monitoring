@@ -1,0 +1,28 @@
+{
+  "lake": "Gunflint",
+  "date": "2026-07-29T12:00:00-07:00",
+  "source": "photo pasted in chat (images/1.jpg, 1024x768)",
+  "samplers": ["Gima", "Akshara"],
+  "weather": "calm, sunny, light breeze",
+  "air_temperature": null,
+  "secchi_depth": [4.7, 5.1],
+  "ocr_notes": ["Header \"July 29, 2026 Gunflint\"; Date \"29 July 2026\"; no time written; no weekday", "Who: \"Gima and Akshara\"", "Air temp blank", "Depth labels 8-15 overwritten (renumbered by one); values read against final labels", "0m pH 7.1, first digit overwritten", "4m TDS written 34.5 with 4 overwritten on 5 (35.1 / 34.45?); 0.65 x 53.7 = 34.9", "8m DO 9.74, overwritten", "10m DO written \"779\" (no decimal point)", "12m DO 5.7 or 5.47, smudged", "13m DO 5.73, first digit overwritten", "13m SPC 52.5 or 52.3, 5 overwritten on 3", "15m DO 4.37, overwritten"],
+  "measurements": [
+    {"depth": 0, "temperature": 24.4, "DO": 8.05, "SPC": 54.0, "TDS": 35.1, "PH": 7.1},
+    {"depth": 1, "temperature": 22.1, "DO": 8.3, "SPC": 53.9, "TDS": 35.1, "PH": 7.11},
+    {"depth": 2, "temperature": 21.8, "DO": 8.19, "SPC": 53.8, "TDS": 35.1, "PH": 7.17},
+    {"depth": 3, "temperature": 21.7, "DO": 8.37, "SPC": 53.8, "TDS": 35.1, "PH": 7.2},
+    {"depth": 4, "temperature": 21.3, "DO": 8.5, "SPC": 53.7, "TDS": 34.5, "PH": 7.23},
+    {"depth": 5, "temperature": 16.4, "DO": 11.91, "SPC": 51.2, "TDS": 33.15, "PH": 7.25},
+    {"depth": 6, "temperature": 12.1, "DO": 13.71, "SPC": 50, "TDS": 32.5, "PH": 7.28},
+    {"depth": 7, "temperature": 9.7, "DO": 13.16, "SPC": 50.4, "TDS": 32.5, "PH": 7.31},
+    {"depth": 8, "temperature": 7.9, "DO": 9.74, "SPC": 50.2, "TDS": 32.5, "PH": 7.36},
+    {"depth": 9, "temperature": 6.6, "DO": 8.15, "SPC": 50.6, "TDS": 33.15, "PH": 7.58},
+    {"depth": 10, "temperature": 6.1, "DO": 779, "SPC": 50.9, "TDS": 33.15, "PH": 7.92},
+    {"depth": 11, "temperature": 5.8, "DO": 7.3, "SPC": 51.5, "TDS": 33.8, "PH": 7.95},
+    {"depth": 12, "temperature": 5.6, "DO": 5.7, "SPC": 52.1, "TDS": 33.8, "PH": 8.05},
+    {"depth": 13, "temperature": 5.5, "DO": 5.73, "SPC": 52.5, "TDS": 34.45, "PH": 8.12},
+    {"depth": 14, "temperature": 5.4, "DO": 4.87, "SPC": 53.2, "TDS": 34.45, "PH": 8.2},
+    {"depth": 15, "temperature": 5.4, "DO": 4.37, "SPC": 53.6, "TDS": 35.1, "PH": 8.23}
+  ]
+}

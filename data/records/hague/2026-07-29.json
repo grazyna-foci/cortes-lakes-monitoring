@@ -1,0 +1,28 @@
+{
+  "lake": "Hague",
+  "date": "2026-07-29T12:00:00-07:00",
+  "source": "ocr/2026-07-29-hague.json",
+  "station": "DWH",
+  "samplers": ["Gina", "Akshara"],
+  "weather": "calm, sunny, light breeze",
+  "air_temperature": 27,
+  "secchi_depth": [5.6, 5.7],
+  "measurements": [
+    {"depth": 0, "temperature": 22.2, "DO": 8.45, "SPC": 51.6, "TDS": 33.8, "PH": 7.03},
+    {"depth": 1, "temperature": 21.9, "DO": 8.53, "SPC": 51.5, "TDS": 33.8, "PH": 7.03},
+    {"depth": 2, "temperature": 21.2, "DO": 8.51, "SPC": 51.5, "TDS": 33.15, "PH": 7.04},
+    {"depth": 3, "temperature": 21.1, "DO": 8.6, "SPC": 51.4, "TDS": 33.15, "PH": 7.05},
+    {"depth": 4, "temperature": 21.0, "DO": 8.2, "SPC": 51.4, "TDS": 33.15, "PH": 7.04},
+    {"depth": 5, "temperature": 21, "DO": 8.44, "SPC": 51.4, "TDS": 33.15, "PH": 7.11},
+    {"depth": 6, "temperature": 19.7, "DO": 9.05, "SPC": 51.8, "TDS": 33.15, "PH": 7.13},
+    {"depth": 7, "temperature": 14.1, "DO": 9.49, "SPC": 50.1, "TDS": 32.5, "PH": 7.15},
+    {"depth": 8, "temperature": 10.9, "DO": 7.72, "SPC": 51.2, "TDS": 33.5, "PH": 7.25},
+    {"depth": 9, "temperature": 9.9, "DO": 4.55, "SPC": 52.3, "TDS": 33.8, "PH": 7.34},
+    {"depth": 10, "temperature": 9.3, "DO": 3.03, "SPC": 54.6, "TDS": 35.75, "PH": 7.43},
+    {"depth": 11, "temperature": 9.1, "DO": 2.51, "SPC": 65.0, "TDS": 37.7, "PH": 7.5},
+    {"depth": 12, "temperature": 9.1, "DO": 2.25, "SPC": 71.6, "TDS": 47.45, "PH": 7.65},
+    {"depth": 13, "temperature": 9.1, "DO": 2.19, "SPC": 75.0, "TDS": 49.76, "PH": 7.71},
+    {"depth": 14, "temperature": 9.1, "DO": 2.11, "SPC": 75.9, "TDS": 49.4, "PH": 7.62}
+  ],
+  "data_notes": "Sampling time not recorded on the sheet; 12:00 used. 8m DO written \"77.2\" over a correction; recorded as 7.72. 11m SPC runs into the DO value on the sheet; recorded as 65.0, confirmed on review. 11m, 12m and 13m TDS kept as written although not 0.65 x SPC."
+}

@@ -3,25 +3,25 @@
 
 :root {
   color-scheme: light;
-  --page: #f2f5f7;
+  --page: #eef5ef;
   --panel: #ffffff;
   --panel-raised: #ffffff;
   --chart-surface: #ffffff;
   --tooltip-bg: #ffffff;
-  --topbar-bg: rgba(242, 245, 247, 0.85);
-  --stat-bg: #f6f9fa;
-  --shadow: 0 1px 2px rgba(15, 35, 45, 0.04), 0 2px 8px rgba(15, 35, 45, 0.04);
-  --popover-shadow: 0 16px 40px rgba(15, 35, 45, 0.16);
-  --ink: #0f1d26;
-  --ink-secondary: #4b5d67;
-  --ink-muted: #7a8b93;
-  --hairline: #dde5ea;
-  --grid: #edf1f4;
-  --axis: #c5d0d6;
-  --hover: #edf3f5;
-  --accent: #0f766e;
+  --topbar-bg: rgba(238, 245, 239, 0.85);
+  --stat-bg: #f3f8f3;
+  --shadow: 0 1px 2px rgba(15, 40, 20, 0.04), 0 2px 8px rgba(15, 40, 20, 0.04);
+  --popover-shadow: 0 16px 40px rgba(15, 40, 20, 0.16);
+  --ink: #10231a;
+  --ink-secondary: #4a6152;
+  --ink-muted: #788d7e;
+  --hairline: #d8e6da;
+  --grid: #ebf2ec;
+  --axis: #c2d3c5;
+  --hover: #e9f3ea;
+  --accent: #2e7d32;
   --accent-ink: #ffffff;
-  --accent-wash: #e2f1ef;
+  --accent-wash: #e3f2e4;
   --danger: #b42318;
 
   --lake-hague: #2a78d6;

@@ -1,0 +1,27 @@
+{
+  "lake": "Hague",
+  "date": "2026-07-03T11:30:00-07:00",
+  "source": "ocr/2026-07-03-hague.json",
+  "station": "DWH",
+  "samplers": ["Gina", "Ziemek"],
+  "weather": "partly sunny",
+  "air_temperature": 20.8,
+  "secchi_depth": [5.2, 4.9],
+  "measurements": [
+    {"depth": 0, "temperature": 20.5, "DO": 8.22, "SPC": 51, "TDS": 33.15, "PH": 6.91},
+    {"depth": 1, "temperature": 20.2, "DO": 8.3, "SPC": 50.8, "TDS": 33.15, "PH": 6.93},
+    {"depth": 2, "temperature": 20, "DO": 8.46, "SPC": 50.8, "TDS": 33.15, "PH": 6.94},
+    {"depth": 3, "temperature": 19.9, "DO": 8.49, "SPC": 50.7, "TDS": 33.15, "PH": 6.95},
+    {"depth": 4, "temperature": 19.9, "DO": 8.4, "SPC": 50.7, "TDS": 33.15, "PH": 6.96},
+    {"depth": 5, "temperature": 19.9, "DO": 8.22, "SPC": 50.8, "TDS": 33.15, "PH": 6.97},
+    {"depth": 6, "temperature": 17.5, "DO": 9.4, "SPC": 50.2, "TDS": 32.5, "PH": 6.95},
+    {"depth": 7, "temperature": 11.5, "DO": 10.19, "SPC": 49.7, "TDS": 32.5, "PH": 7.01},
+    {"depth": 8, "temperature": 9.9, "DO": 7.85, "SPC": 50, "TDS": 32.5, "PH": 7.02},
+    {"depth": 9, "temperature": 9.3, "DO": 5.9, "SPC": 50.8, "TDS": 33.15, "PH": 7.05},
+    {"depth": 10, "temperature": 9, "DO": 4.66, "SPC": 51.8, "TDS": 33.8, "PH": 7.1},
+    {"depth": 11, "temperature": 8.8, "DO": 3.92, "SPC": 52.5, "TDS": 34.45, "PH": 7.15},
+    {"depth": 12, "temperature": 8.8, "DO": 3.2, "SPC": 54.6, "TDS": 35.75, "PH": 7.2},
+    {"depth": 13, "temperature": 8.8, "DO": 2.44, "SPC": 57.7, "TDS": 37.7, "PH": 7.22},
+    {"depth": 14, "temperature": 8.8, "DO": 2.32, "SPC": 59.5, "TDS": 39, "PH": 7.27}
+  ]
+}

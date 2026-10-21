@@ -1,0 +1,29 @@
+{
+  "lake": "Gunflint",
+  "date": "2026-09-30T13:45:00-07:00",
+  "source": "photo pasted in chat",
+  "samplers": ["Gina", "Ziemek"],
+  "weather": "Sunny, Light Wind",
+  "air_temperature": 16.3,
+  "secchi_depth": [6, 6],
+  "ocr_notes": ["Gunflint 0m DO: 7.36, last digit overwritten (7.3 with 6 over another digit)", "Gunflint 6m DO: 8.56, first digit overwritten, could be 0.56", "Gunflint 7m SPC: 50.1, middle digit overwritten", "Gunflint 7m pH: 6.63, 6 overwritten", "Gunflint 8m TDS: 32.15, not a multiple of 0.65 (SPC 50.5)", "Gunflint 9m TDS: 33.15, second digit overwritten", "Gunflint 12m TDS: 33.8, last digit overwritten", "Header: a smudged crossed-out line above 'Gunflint' ", "Lake name read from the page header 'Gunflint'"],
+  "measurements": [
+    {"depth": 0, "temperature": 17, "DO": 7.36, "SPC": 54.3, "TDS": 35.1, "PH": 6.47},
+    {"depth": 1, "temperature": 16.9, "DO": 7.9, "SPC": 54.1, "TDS": 35.1, "PH": 6.6},
+    {"depth": 2, "temperature": 16.7, "DO": 8.08, "SPC": 54, "TDS": 35.1, "PH": 6.66},
+    {"depth": 3, "temperature": 16.6, "DO": 8.3, "SPC": 54, "TDS": 35.1, "PH": 6.7},
+    {"depth": 4, "temperature": 16.6, "DO": 8.44, "SPC": 54, "TDS": 35.1, "PH": 6.73},
+    {"depth": 5, "temperature": 16.6, "DO": 8.44, "SPC": 54, "TDS": 35.1, "PH": 6.75},
+    {"depth": 6, "temperature": 16.2, "DO": 8.56, "SPC": 53.3, "TDS": 34.45, "PH": 6.78},
+    {"depth": 7, "temperature": 12, "DO": 10.43, "SPC": 50.1, "TDS": 32.5, "PH": 6.63},
+    {"depth": 8, "temperature": 8.9, "DO": 9.03, "SPC": 50.5, "TDS": 32.15, "PH": 6.86},
+    {"depth": 9, "temperature": 7.5, "DO": 6.6, "SPC": 51, "TDS": 33.15, "PH": 6.9},
+    {"depth": 10, "temperature": 7.7, "DO": 5.7, "SPC": 50.6, "TDS": 32.5, "PH": 7.19},
+    {"depth": 11, "temperature": 7.5, "DO": 5.2, "SPC": 50.7, "TDS": 32.5, "PH": 7.24},
+    {"depth": 12, "temperature": 7, "DO": 4.44, "SPC": 51.9, "TDS": 33.8, "PH": 7.35},
+    {"depth": 13, "temperature": 6.9, "DO": 3.9, "SPC": 52.4, "TDS": 34.45, "PH": 7.45},
+    {"depth": 14, "temperature": 7.2, "DO": 3.28, "SPC": 54.6, "TDS": 35.1, "PH": 7.55},
+    {"depth": 15, "temperature": 6.5, "DO": 2.71, "SPC": 55.9, "TDS": 36.4, "PH": 7.64},
+    {"depth": 16, "temperature": 6.5, "DO": 2.52, "SPC": 57.7, "TDS": 37.7, "PH": 7.77}
+  ]
+}

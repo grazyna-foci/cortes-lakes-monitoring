@@ -1,0 +1,25 @@
+{
+  "lake": "Hague",
+  "date": "2026-11-04T16:30:00-07:00",
+  "source": "photo pasted in chat",
+  "station": "DWH",
+  "samplers": ["Carrie", "Gina"],
+  "weather": "windy, cloudy, light rain",
+  "air_temperature": 9.9,
+  "secchi_depth": [3.8, 3.8],
+  "measurements": [
+    {"depth": 0, "temperature": 11.8, "DO": 8.94, "SPC": 51.7, "TDS": 34.8, "PH": 6.27},
+    {"depth": 1, "temperature": 11.8, "DO": 8.94, "SPC": 51.7, "TDS": 33.3, "PH": 6.25},
+    {"depth": 2, "temperature": 11.8, "DO": 8.88, "SPC": 51.7, "TDS": 33.8, "PH": 6.26},
+    {"depth": 3, "temperature": 11.8, "DO": 8.96, "SPC": 51.7, "TDS": 33.8, "PH": 6.27},
+    {"depth": 4, "temperature": 11.8, "DO": 9.01, "SPC": 51.7, "TDS": 33.8, "PH": 6.26},
+    {"depth": 5, "temperature": 11.8, "DO": 8.94, "SPC": 51.7, "TDS": 33.8, "PH": 6.27},
+    {"depth": 6, "temperature": 11.8, "DO": 9.01, "SPC": 51.7, "TDS": 33.8, "PH": 6.29},
+    {"depth": 7, "temperature": 11.8, "DO": 9.09, "SPC": 51.7, "TDS": 32.8, "PH": 6.28},
+    {"depth": 8, "temperature": 11.8, "DO": 8.92, "SPC": 51.7, "TDS": 33.8, "PH": 6.28},
+    {"depth": 9, "temperature": 11.8, "DO": 9.06, "SPC": 51.7, "TDS": 33.8, "PH": 6.3},
+    {"depth": 10, "temperature": 11.2, "DO": 8.99, "SPC": 51.8, "TDS": 33.8, "PH": 6.3},
+    {"depth": 11, "temperature": 11.8, "DO": 8.94, "SPC": 51.8, "TDS": 33.8, "PH": 6.31},
+    {"depth": 12, "temperature": 11.8, "DO": 1.92, "SPC": 51.9, "TDS": 33.8, "PH": 6.3}
+  ]
+}
